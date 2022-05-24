@@ -1,5 +1,6 @@
 <?php 
-include __DIR__ . '/db.php';
+
+include __DIR__ . '/dblocal.php';
 ?>
 
 <!DOCTYPE html>
